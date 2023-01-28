@@ -1,0 +1,78 @@
+[
+  {
+    "id": "d0",
+    "url": "/dress/d0",
+    "mbti": ["enfp", "esfp", "infp"],
+    "theme": ["데이트룩"],
+    "mainImg": [
+      {
+        "id": "flower1-1",
+        "img": "/public-assets/dress/flower1-1.png"
+      },
+      {
+        "id": "flower1-2",
+        "img": "/public-assets/dress/flower1-2.png"
+      },
+      {
+        "id": "flower1-3",
+        "img": "/public-assets/dress/flower1-3.png"
+      }
+    ],
+    "title": "플라워 패턴의 밴딩 플레어 원피스",
+    "cost": "32,000",
+    "content": {
+      "md": "따뜻함과 여성스러움을 동시에 선사할 플레어 원피스 제품이에요*.*\n 그냥 일반적인 안감이 아닌 뛰어난 보온성을 선사할 기모안감이 전체적으로 덧대어 있어 추운날씨에도 예쁨과  동시에 보온성도 갖춘 원피스 아이템이 아닐까싶어요♡\n살짝 올라오는 하이넥 디자인으로 넥라인도 여성스럽게 디자인 되었구요 숄더라인을 따라 프릴 디테일까지 더해져 글램한 바디라인 효과까지 선사해 드려요:D",
+
+      "detail": "전체 허리밴딩으로 활동하기에 편안함 가득하구요.\n안정감 있는 미니 기장으로 레그라인은 보다 길게 표현 해주며, 잔잔하게 퍼지는 A라인 플레어 디자인으로 하체라인을 보다 슬림하게 표현 해준답니다.\n손쉽게 착용하기 좋은 블랙 한 컬러로 준비했어요.",
+
+      "size": "FREE 사이즈로 준비되었어요.\n미니멀한 기장으로 161CM 이하의 체형을 가지신 분들에게 부담없이 착용가능해 추천해드려요~"
+    },
+    "images": {
+      "wearing": [
+        "/public-assets/dress/flower2-1.png",
+        "/public-assets/dress/flower2-2.png"
+      ],
+      "detail": "/public-assets/dress/flower3.png",
+      "material" : "/public-assets/dress/flowerM.png",
+      "washing": "/public-assets/dress/flowerW.png"
+    }
+  },
+  {
+    "id": "d1",
+    "url": "/dress/d1",
+    "mbti": ["esfj", "intj", "istp"],
+    "theme": ["데이트룩", "캠퍼스룩"],
+    "mainImg": [
+      {
+        "id": "hip1-1",
+        "img": "/public-assets/dress/hip1-1.png"
+      },
+      {
+        "id": "hip1-2",
+        "img": "/public-assets/dress/hip1-2.png"
+      },
+      {
+        "id": "hip1-3",
+        "img": "/public-assets/dress/hip1-3.png"
+      }
+    ],
+    "title": "레더 패브릭 A라인 뷔스티에 롱 원피스",
+    "cost": "75,000",
+    "content": {
+      "md": "레더 패브릭 자체만으로 트렌디하고 스페셜한 무드가 느껴지는 원피스예요.\n거칠지 않고 부드러운 페이크 레더 패브릭으로 완성되었어요.\n특별한 무드가 느껴지는 제품이라 다가오는 연말에 꼭 추천드리고 싶어 데려온 제품이랍니다 : )\n벨트 세트 구성으로 제작된 제품이라 벨트를 착용해 더욱 슬림한 실루엣을 연출하셔도 좋답니다.\n",
+
+      "detail": "유연하고 탄탄한 페이크 레더 소재로 제작되었어요.\n얇은 숄더끈이 레이어드한 상의를 방해하지 않고 깔끔히 입어진답니다.\n허리선은 보다 높게 제작되어 더욱 롱한 레그라인을 연출해드리구요,\n핀턱 디테일로 풍성한 플레어 라인을 연출해드려요.\n롱한 기장감으로 가리고 싶던 하체의 군살도 쏙-쏙- 가려드린답니다!\n바스트 디자인와 라인 디테일로 페미닌하며 흔하지 않아 소장가치가 높은 제품이예요.\n뒷면 콘솔지퍼로 손쉬운 오픈클로징까지 도와드려요.",
+
+      "size": "FREE 사이즈로 준비되었어요.\n 키 165CM 이하의 체형을 가지신 분들에게 부담없이 착용가능해 추천해드려요~"
+    },
+    "images": {
+      "wearing": [
+        "/public-assets/dress/hip2-1.png",
+        "/public-assets/dress/hip2-2.png"
+      ],
+      "detail": "/public-assets/dress/hip3.png",
+      "material" : "/public-assets/dress/hipM.png",
+      "washing": "/public-assets/dress/hipW.png"
+    }
+  }
+]
