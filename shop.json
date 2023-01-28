@@ -1,4 +1,5 @@
-[
+{
+  "dress" [
   {
     "id": "d0",
     "url": "/dress/d0",
@@ -75,4 +76,84 @@
       "washing": "/public-assets/dress/hipW.png"
     }
   }
-]
+  ],
+
+  "jeans" [
+  {
+    "id": "b0",
+    "url": "/pants/jeans/b0",
+    "mbti": ["entj", "esfj", "estp", "infj", "intp", "isfj"],
+    "theme": ["데이트룩", "출근룩", "캠퍼스룩", "하객룩"],
+    "mainImg": [
+      {
+        "id": "b01-1",
+        "img": "/public-assets/blueJeans/b01-1.png"
+      },
+      {
+        "id": "b01-2",
+        "img": "/public-assets/blueJeans/b01-2.png"
+      },
+      {
+        "id": "b01-3",
+        "img": "/public-assets/blueJeans/b01-3.png"
+      }
+    ],
+    "title": "피치스판소재의 쫀쫀 히든밴딩 데님 스키니진",
+    "cost": "35,200",
+    "content": {
+      "md": "입어보는 순간 부드럽고 편안한\n착용감에 깜짝 놀라게 될 스키니진♡\n\n겉으로 티가 나지 않는 히든밴딩이\n허리라인부터 슬림하게 꽉 잡아주며\n발목까지 예쁘게 붙어 날씬해보여요:)\n\n부드러운 피치 소재감으로 제작되어\n일반 데님보다 따뜻한 느낌이 들고\n텐션감이 뛰어나 편안함 가득하답니다!",
+
+      "detail": "기장이 너무 짧지 않아 다리가 길어보이며\n키가 작아도, 커도 예쁘게 어울린답니다.\n밑단을 내츄럴하게 커팅된 디자인으로\n입었을 때 더욱 스타일리쉬해보여요-\n",
+
+      "size": "FREE 사이즈로 준비되었어요;)"
+    },
+    "images": {
+      "wearing": [
+        "/public-assets/blueJeans/b02-1.png",
+        "/public-assets/blueJeans/b02-2.png"
+      ],
+      "detail": "/public-assets/blueJeans/b03.png",
+      "material" : "/public-assets/blueJeans/b0M.png",
+      "washing": "/public-assets/blueJeans/b0W.png"
+    }
+  },
+  {
+    "id": "b0",
+    "url": "/pants/jeans/b0",
+    "mbti": ["entj", "esfj", "estp", "infj", "intp", "isfj"],
+    "theme": ["데이트룩", "출근룩", "캠퍼스룩", "하객룩"],
+    "mainImg": [
+      {
+        "id": "b01-1",
+        "img": "/public-assets/blueJeans/b01-1.png"
+      },
+      {
+        "id": "b01-2",
+        "img": "/public-assets/blueJeans/b01-2.png"
+      },
+      {
+        "id": "b01-3",
+        "img": "/public-assets/blueJeans/b01-3.png"
+      }
+    ],
+    "title": "피치스판소재의 쫀쫀 히든밴딩 데님 스키니진",
+    "cost": "35,200",
+    "content": {
+      "md": "입어보는 순간 부드럽고 편안한\n착용감에 깜짝 놀라게 될 스키니진♡\n\n겉으로 티가 나지 않는 히든밴딩이\n허리라인부터 슬림하게 꽉 잡아주며\n발목까지 예쁘게 붙어 날씬해보여요:)\n\n부드러운 피치 소재감으로 제작되어\n일반 데님보다 따뜻한 느낌이 들고\n텐션감이 뛰어나 편안함 가득하답니다!",
+
+      "detail": "기장이 너무 짧지 않아 다리가 길어보이며\n키가 작아도, 커도 예쁘게 어울린답니다.\n밑단을 내츄럴하게 커팅된 디자인으로\n입었을 때 더욱 스타일리쉬해보여요-\n",
+
+      "size": "FREE 사이즈로 준비되었어요;)"
+    },
+    "images": {
+      "wearing": [
+        "/public-assets/blueJeans/b02-1.png",
+        "/public-assets/blueJeans/b02-2.png"
+      ],
+      "detail": "/public-assets/blueJeans/b03.png",
+      "material" : "/public-assets/blueJeans/b0M.png",
+      "washing": "/public-assets/blueJeans/b0W.png"
+    }
+  }
+  ],
+}
