@@ -1,5 +1,5 @@
 {
-  "dress" [
+  "dress": [
   {
     "id": "d0",
     "url": "/dress/d0",
@@ -78,7 +78,7 @@
   }
   ],
 
-  "jeans" [
+  "jeans": [
   {
     "id": "b0",
     "url": "/pants/jeans/b0",
